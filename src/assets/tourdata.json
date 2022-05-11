@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "tourname": "Mountain",
+        "price": 799,
+        "description": "Guided hikes through a popular mountain range",
+        "image": "mountain.jpg",
+        "alttext": "mountain"
+    },
+    {
+        "id": 1,
+        "tourname": "Beach",
+        "price": 999,
+        "description": "Take a walk on the beach with us in crystal clear water",
+        "image": "beach.jpg",
+        "alttext": "beach"
+    },
+    {
+        "id": 2,
+        "tourname": "Lake",
+        "price": 799,
+        "description": "Fishing and water sports in a secluded lake",
+        "image": "lake.jpg",
+        "alttext": "lake"
+    },
+    {
+        "id": 3,
+        "tourname": "Desert",
+        "price": 699,
+        "description": "Make sure to bring plenty of water on this tour",
+        "image": "desert.jpg",
+        "alttext": "desert"
+    },
+    {
+        "id": 4,
+        "tourname": "Waterfall",
+        "price": 849,
+        "description": "Views from the top and bottom of this famous waterfall",
+        "image": "waterfall.jpg",
+        "alttext": "waterfall"
+    },
+    {
+        "id": 5,
+        "tourname": "City",
+        "price": 899,
+        "description": "Museums, food and more on our most popular tour",
+        "image": "city.jpg",
+        "alttext": "city"
+    },
+    {
+        "id": 6,
+        "tourname": "Countryside",
+        "price": 599,
+        "description": "Relax and stroll through rolling hills",
+        "image": "countryside.jpg",
+        "alttext": "countryside"
+    }
+]

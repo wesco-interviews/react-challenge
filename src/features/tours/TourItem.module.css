@@ -1,0 +1,53 @@
+.tourItem {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.inCartBadge {
+    text-align: center;
+    margin-top: -29px;
+    font-weight: 800;
+    color: white;
+    display: block;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    letter-spacing: 2px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.tourItem img {
+    display: block;
+    z-index: 5;
+    width: 288px;
+    height: 288px;
+    margin: 0 auto;
+}
+
+button {
+    border: 3px solid green;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    height: 40px;
+    margin-top: auto;
+    background-color: white;
+    color: green;
+    font-weight: 800;
+}
+
+button.delete {
+    border: 3px solid darkgray;
+    color: darkgray;
+}
+
+button:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+button.delete:hover {
+    background-color: darkgray;
+    color: white;
+    cursor: pointer;
+}
