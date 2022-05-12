@@ -24,6 +24,6 @@ We have three challenges presented in this challenge <br>
     a. Get the dropdown currency selector working <br>
     b. Display prices in the correct, selected currency <br>
     
-# Solution
+# Example Solution
     
 ![Screen Shot 2022-05-12 at 10 59 29 AM](https://user-images.githubusercontent.com/11037136/168105846-925ff4cc-b93d-43b0-b8c0-0dd99e2ebe5a.png)
