@@ -23,6 +23,13 @@ We have three challenges presented in this challenge <br>
   3. Use the useCurrency hook to fix remaining issues <br>
     a. Get the dropdown currency selector working <br>
     b. Display prices in the correct, selected currency <br>
+
+# Completing the assignment
+
+After you have completed the assignment, do one of the following: <br>
+  1. If you have an account on GitHub, commit your changes to GitHub, and grant access to WESCO-International [github.com]. <br>
+  2. If you use another online repo, please commit your changes there and ask who you should grant access to at Wesco. <br>
+  3. Otherwise, send a zip file to us via email. <br>
     
 # Example Solution
     
